@@ -1,0 +1,3 @@
+ADD001,Chocolates,8.00,Available
+ADD002,Teddy Bear,12.00,Available
+ADD003,Greeting Card,3.00,Available
